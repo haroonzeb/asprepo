@@ -1,0 +1,7 @@
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Release\net6.0\PubTmp\Out\ASP .net Core.exe
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Release\net6.0\PubTmp\Out\ASP .net Core.dll
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Release\net6.0\PubTmp\Out\ASP .net Core.deps.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Release\net6.0\PubTmp\Out\ASP .net Core.runtimeconfig.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Release\net6.0\PubTmp\Out\ASP .net Core.pdb

@@ -1,0 +1,30 @@
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\bin\Debug\net6.0\appsettings.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\bin\Debug\net6.0\ASP .net Core.staticwebassets.runtime.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\bin\Debug\net6.0\ASP .net Core.exe
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\bin\Debug\net6.0\ASP .net Core.deps.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\bin\Debug\net6.0\ASP .net Core.runtimeconfig.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\bin\Debug\net6.0\ASP .net Core.dll
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\bin\Debug\net6.0\ASP .net Core.pdb
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ASP .net Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ASP .net Core.AssemblyInfoInputs.cache
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ASP .net Core.AssemblyInfo.cs
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ASP .net Core.csproj.CoreCompileInputs.cache
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ASP .net Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ASP .net Core.RazorAssemblyInfo.cache
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ASP .net Core.RazorAssemblyInfo.cs
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\staticwebassets\msbuild.ASP .net Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP .net Core.props
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP .net Core.props
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP .net Core.props
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\scopedcss\bundle\ASP .net Core.styles.css
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\scopedcss\projectbundle\ASP .net Core.bundle.scp.css
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ASP .net Core.dll
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\refint\ASP .net Core.dll
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ASP .net Core.pdb
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ASP .net Core.genruntimeconfig.cache
+C:\Users\hamza.shakeel\source\repos\ASP .net Core\ASP .net Core\obj\Debug\net6.0\ref\ASP .net Core.dll
